@@ -21,6 +21,3 @@ select concat(first_name, ' ', last_name) from students
 
 -- length
 select length(first_name) from students
-
---? Aggregate Functions
--- avg, min, max, sum, count
