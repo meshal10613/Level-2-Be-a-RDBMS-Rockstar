@@ -8,5 +8,5 @@
 | Dec 12 2025 | `Module-17` | [PostgreSQL Database Management & Data Types using pgAdmin](https://web.programming-hero.com/level2-batch-6/post/level2-batch-6-text-instructions-module-44) |
 | Dec 14 2025 | `Module-18` | [PostgreSQL Advanced Data Manipulation Techniques](https://web.programming-hero.com/level2-batch-6/post/level2-batch-6-text-instructions-module-18) |
 | Dec 17 2025 | `Module-19` | [PostgreSQL Essentials: Data, Keys, Joins](https://web.programming-hero.com/level2-batch-6/post/level2-batch-6-text-instructions-module-19) |
-| Dec 19 2025 | `Module-20` | [Advanced SQL Concepts : Subqueries, Functions, Triggers & Indexing]() |
+| Dec 19 2025 | `Module-20` | [Advanced SQL Concepts : Subqueries, Functions, Triggers & Indexing](https://web.programming-hero.com/level2-batch-6/post/level2-batch-6-text-instructions-module-20) |
 
